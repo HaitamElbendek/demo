@@ -1,2 +1,3 @@
 Hello world !
 i'm using github!
+git is a distributed version control system
